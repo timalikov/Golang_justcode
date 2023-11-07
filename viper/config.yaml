@@ -1,0 +1,10 @@
+HttpServer:
+  Port: 9233
+  ShutdownTimeout: 2m
+
+Database:
+  Host: localhost
+  Port: 5432
+  Username: user
+  Password: password
+  Name: mydb
